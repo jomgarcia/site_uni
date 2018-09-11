@@ -1,0 +1,84 @@
+ <section id="history-section" class="history-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header" id="primero">
+                                    <img clas="img-thumbnail" src="assets/images/mater/escuela_ingenieria.jpg" alt="historia">
+
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Información e Historia</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/alma-mater" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header colored-bg" id="segundo">
+                                    <img class="img-thumbnail" src="assets/images/mater/rector.jpg" alt="rector">
+                                    <!-- <i class="fa fa-diamond"></i> -->
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Dirección superior</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/rectoria" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header" id="tercereo">
+                                    <img class="img-thumbnail" src="assets/images/mater/martillo_libro.jpg" alt="martillo">
+                                    <!-- <i class="fa fa-trophy"></i> -->
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Organigrama, Convenios y Reglamentos</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/alma-mater" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header" id="cuarto">
+                                    <img class="img-thumbnail" src="assets/images/mater/divisiones_administrativas.jpg" alt="ADM">
+                                    <!-- <i class="fa fa-trophy"></i> -->
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Divisiones Administrativas</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/alma-mater" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header" id="quinto">
+                                    <img class="img-thumbnail" src="assets/images/mater/nicaragua.jpg" alt="Nic">
+                                    <!-- <i class="fa fa-trophy"></i> -->
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Introducción</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/alma-mater" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="history">
+                                <div class="history-header" id="sexto">
+                                    <img class="img-thumbnail" src="assets/images/mater/publicaciones.jpg" alt="Nic">
+                                    <!-- <i class="fa fa-trophy"></i> -->
+                                </div>
+                                <div class="history-body">
+                                    <h3 class="history-title">Publicaciones</h3>
+                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                    <a routerLink="/alma-mater" class="btn btn-primary">Leer mas...</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
